@@ -296,8 +296,7 @@ Industry-specific standards, reference models, and bodies of knowledge for domai
 
 ## Related Lists
 
-Adjacent domains and specialties this list points to rather than duplicates — including data
-analysis, the quantitative subdomain it deliberately hands off.
+Adjacent domains and specialties this list points to rather than duplicates — including data analysis, the quantitative subdomain it deliberately hands off.
 
 - [Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) - Data analysis resources: Python, SQL, statistics, and visualization.
 - [Awesome Data Science](https://github.com/academic/awesome-datascience) - Broad data science list spanning analysis, modeling, and learning paths.
