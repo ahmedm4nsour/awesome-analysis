@@ -1,15 +1,10 @@
 # Awesome Analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome tools, frameworks, standards, and resources for business, systems, and product analysis.
-
-📖 **For comfortable reading:** [Web version](https://sbarkalov.github.io/awesome-analysis/)
+> Business, systems, and product analysis turn stakeholder needs into clear, verifiable requirements, designs, and product decisions.
 
 ✨ **Spotted a gap?** [Suggest an addition](https://github.com/sbarkalov/awesome-analysis/issues/new) or [start a discussion](https://github.com/sbarkalov/awesome-analysis/discussions)
 
-Business, systems, and product analysis turn stakeholder needs into clear, verifiable
-requirements, designs, and product decisions. This list collects the best of the discipline —
-from AI-assisted and code-driven workflows to classic bodies of knowledge, modeling notations,
-product analytics, and templates.
+This list collects the best of the discipline — from AI-assisted and code-driven workflows to classic bodies of knowledge, modeling notations, product analytics, and templates.
 
 ## Contents
 
@@ -314,6 +309,10 @@ analysis, the quantitative subdomain it deliberately hands off.
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## Footnotes
+
+- [Web version](https://sbarkalov.github.io/awesome-analysis/) - This readme rendered as a browsable site, for more comfortable reading.
 
 ---
 
