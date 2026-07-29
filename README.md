@@ -27,22 +27,17 @@ This list collects the best of the discipline — from AI-assisted and code-driv
 
 ## AI & Agentic Analysis
 
-Using LLMs and autonomous agents to elicit, draft, refine, and trace requirements.
+Using LLMs and autonomous agents to elicit, draft, refine, and trace requirements. Any general-purpose assistant (Claude, ChatGPT, Gemini, DeepSeek, Qwen) drafts requirements and user stories well enough, so use whichever you already have; the entries below are tools built specifically for analysis work.
 
 - [Model Context Protocol](https://modelcontextprotocol.io) - Open standard for connecting AI agents to tools and data sources.
-- [Claude](https://claude.ai) - Assistant strong at drafting requirements, user stories, and acceptance criteria.
-- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer that also drafts specs, diagrams, and ADRs in-repo.
-- [Cursor](https://cursor.com) - AI-first editor useful for editing specs and diagrams-as-code with context.
+- [MCP Registry](https://registry.modelcontextprotocol.io) - Official directory of MCP servers for finding a connector to a tracker, wiki, or database.
+- [Atlassian MCP Server](https://github.com/atlassian/atlassian-mcp-server) - Official server exposing Jira and Confluence to agents over OAuth.
+- [Agent Skills](https://agentskills.io) - Open standard for packaging repeatable procedures, templates, and house style as skills an agent loads on demand.
+- [Anthropic Skills](https://github.com/anthropics/skills) - Reference skills for the standard, including generation of Word, Excel, and PowerPoint deliverables.
 - [ChatPRD](https://www.chatprd.ai) - AI copilot for product requirement documents and user stories.
 - [LangChain](https://www.langchain.com) - Framework for building custom analysis and elicitation agents.
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub's toolkit for spec-driven development with AI coding agents.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven workflow that aligns humans and AI agents before any code.
-- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Patterns and examples for building agentic workflows.
-- [ChatGPT](https://chatgpt.com) - OpenAI's assistant for drafting requirements, user stories, and analysis.
-- [Google Gemini](https://gemini.google.com) - Google's assistant for drafting, summarizing, and reasoning over specs.
-- [DeepSeek](https://www.deepseek.com) - Open-weight assistant useful for drafting and reasoning over requirements.
-- [Qwen](https://qwen.ai) - Alibaba's assistant and open model family for analysis tasks.
-- [Prompt Engineering Guide](https://www.promptingguide.ai) - Techniques like few-shot and chain-of-thought for reliable LLM use.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
@@ -272,6 +267,7 @@ Industry-specific standards, reference models, and bodies of knowledge for domai
 - [TutorialsPoint](https://www.tutorialspoint.com) - Free tutorials on SQL, UML, and technical topics.
 - [Atlassian University](https://university.atlassian.com) - Official training for Jira, Confluence, and agile ways of working.
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Open guide to system design concepts and trade-offs.
+- [Prompt Engineering Guide](https://www.promptingguide.ai) - Techniques like few-shot and chain-of-thought for reliable LLM use.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
@@ -302,6 +298,8 @@ Adjacent domains and specialties this list points to rather than duplicates — 
 - [Awesome Data Science](https://github.com/academic/awesome-datascience) - Broad data science list spanning analysis, modeling, and learning paths.
 - [Awesome Integration](https://github.com/stn1slv/awesome-integration) - Curated list of system integration software and patterns.
 - [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql) - Curated list of GraphQL resources and tools.
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Patterns and examples for building agentic workflows.
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Community catalog of MCP servers across categories.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
