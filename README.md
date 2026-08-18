@@ -30,10 +30,10 @@ This list collects the best of the discipline — from AI-assisted and code-driv
 Using LLMs and autonomous agents to elicit, draft, refine, and trace requirements. Any general-purpose assistant (Claude, ChatGPT, Gemini, DeepSeek, Qwen) drafts requirements and user stories well enough, so use whichever you already have; the entries below are tools built specifically for analysis work.
 
 - [Model Context Protocol](https://modelcontextprotocol.io) - Open standard for connecting AI agents to tools and data sources.
-- [MCP Registry](https://registry.modelcontextprotocol.io) - Official directory of MCP servers for finding a connector to a tracker, wiki, or database.
+- [MCP Registry](https://registry.modelcontextprotocol.io) - Official directory of MCP servers for trackers, wikis, and databases.
 - [Atlassian MCP Server](https://github.com/atlassian/atlassian-mcp-server) - Official server exposing Jira and Confluence to agents over OAuth.
-- [Agent Skills](https://agentskills.io) - Open standard for packaging repeatable procedures, templates, and house style as skills an agent loads on demand.
-- [Anthropic Skills](https://github.com/anthropics/skills) - Reference skills for the standard, including generation of Word, Excel, and PowerPoint deliverables.
+- [Agent Skills](https://agentskills.io) - Open standard for packaging procedures and templates as agent skills.
+- [Anthropic Skills](https://github.com/anthropics/skills) - Reference skills, including Word, Excel, and PowerPoint deliverables.
 - [ChatPRD](https://www.chatprd.ai) - AI copilot for product requirement documents and user stories.
 - [LangChain](https://www.langchain.com) - Framework for building custom analysis and elicitation agents.
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub's toolkit for spec-driven development with AI coding agents.
@@ -45,7 +45,7 @@ Using LLMs and autonomous agents to elicit, draft, refine, and trace requirement
 
 Treating requirements and specifications as plain-text, version-controlled artifacts.
 
-- [Gherkin](https://cucumber.io/docs/gherkin/) - Business-readable language for executable, behavior-driven specifications.
+- [Gherkin](https://cucumber.io/docs/gherkin/) - Business-readable language for executable specifications.
 - [Cucumber](https://cucumber.io) - BDD tool that runs Gherkin scenarios as living documentation.
 - [Markdown](https://www.markdownguide.org) - Lightweight plain-text format, the backbone of docs-as-code.
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - Popular static-site generator for project documentation.
@@ -76,7 +76,7 @@ Notations and tools for process, data, and architecture models — text-first wh
 - [Lucidchart](https://www.lucidchart.com) - Web-based diagramming for flowcharts, ERDs, and UML.
 - [Sparx Enterprise Architect](https://sparxsystems.com/products/ea/) - Modeling platform for UML, BPMN, SysML, and ArchiMate.
 - [UML](https://www.uml.org) - OMG's Unified Modeling Language for software systems.
-- [Archi](https://www.archimatetool.com) - Open-source modeling tool for the ArchiMate enterprise architecture language.
+- [Archi](https://www.archimatetool.com) - Open-source modeling tool for the ArchiMate language.
 
 <p align="right">(<a href="#contents">↑ back to top ↑</a>)</p>
 
@@ -85,7 +85,7 @@ Notations and tools for process, data, and architecture models — text-first wh
 Designing and analyzing interfaces, contracts, and data exchange between systems.
 
 - [OpenAPI Specification](https://www.openapis.org) - Standard, language-agnostic description for REST APIs.
-- [Swagger](https://swagger.io) - Toolset for designing, documenting, and trying out OpenAPI definitions.
+- [Swagger](https://swagger.io) - Toolset for designing and documenting OpenAPI definitions.
 - [Redoc](https://redocly.com/docs/redoc) - Renders OpenAPI definitions into readable reference docs.
 - [Postman](https://www.postman.com) - Platform for exploring, testing, and documenting APIs.
 - [AsyncAPI](https://www.asyncapi.com) - Specification for event-driven and message-based APIs.
@@ -173,7 +173,7 @@ Frameworks and comparisons for iterative delivery of analysis and product work.
 
 The canonical standards and *BOK references that define the profession.
 
-- [BABOK Guide](https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/) - IIBA's Business Analysis Body of Knowledge, the core reference for BAs.
+- [BABOK Guide](https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/) - IIBA's Business Analysis Body of Knowledge, the core BA reference.
 - [IREB](https://www.ireb.org) - Requirements Engineering Board: bodies of knowledge and syllabi.
 - [BPM CBOK](https://www.abpmp.org) - ABPMP's Business Process Management Common Body of Knowledge.
 - [PMBOK Guide](https://www.pmi.org) - PMI's project management body of knowledge, adjacent to analysis work.
@@ -242,7 +242,7 @@ Industry-specific standards, reference models, and bodies of knowledge for domai
 
 ### Cloud
 
-- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - Foundational AWS cloud literacy for analysts working with cloud systems.
+- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - Foundational AWS cloud literacy for analysts.
 - [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) - Entry-level Azure cloud fundamentals (AZ-900).
 - [Google Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader) - Foundational Google Cloud knowledge for non-engineers.
 
@@ -295,7 +295,7 @@ Industry-specific standards, reference models, and bodies of knowledge for domai
 Adjacent domains and specialties this list points to rather than duplicates — including data analysis, the quantitative subdomain it deliberately hands off.
 
 - [Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) - Data analysis resources: Python, SQL, statistics, and visualization.
-- [Awesome Data Science](https://github.com/academic/awesome-datascience) - Broad data science list spanning analysis, modeling, and learning paths.
+- [Awesome Data Science](https://github.com/academic/awesome-datascience) - Broad list spanning analysis, modeling, and learning paths.
 - [Awesome Integration](https://github.com/stn1slv/awesome-integration) - Curated list of system integration software and patterns.
 - [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql) - Curated list of GraphQL resources and tools.
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Patterns and examples for building agentic workflows.
@@ -309,7 +309,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Footnotes
 
-- [Web version](https://sbarkalov.github.io/awesome-analysis/) - This readme rendered as a browsable site, for more comfortable reading.
+- [Web version](https://sbarkalov.github.io/awesome-analysis/) - This readme rendered as a browsable site.
 
 ---
 
