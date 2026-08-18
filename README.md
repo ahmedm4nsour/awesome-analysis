@@ -1,5 +1,7 @@
 # Awesome Analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+ <img width="1003" height="365" alt="header-dark" src="https://github.com/user-attachments/assets/3240155f-20e2-4d85-ab8e-4d37c6eae22b" />
+
 > Business, systems, and product analysis turn stakeholder needs into clear, verifiable requirements, designs, and product decisions.
 
 ✨ **Spotted a gap?** [Suggest an addition](https://github.com/sbarkalov/awesome-analysis/issues/new) or [start a discussion](https://github.com/sbarkalov/awesome-analysis/discussions)
