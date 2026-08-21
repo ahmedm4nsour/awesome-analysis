@@ -313,6 +313,3 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [Web version](https://sbarkalov.github.io/awesome-analysis/) - This readme rendered as a browsable site.
 
----
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work. See [LICENSE](LICENSE) for details.
