@@ -265,6 +265,7 @@ Industry-specific standards, reference models, and bodies of knowledge for domai
 - [Analyst Roadmap](https://github.com/analystRoadmap/analyst_book) - Open roadmap of skills for business and systems analysts.
 - [The API Book](https://twirl.github.io/The-API-Book/) - Free online book on designing APIs, by Sergey Konstantinov.
 - [Learn API Documentation](https://idratherbewriting.com/learnapidoc/) - Comprehensive course on documenting REST APIs.
+- [Google Technical Writing Courses](https://developers.google.com/tech-writing/overview) - Free courses on writing clear technical documentation.
 - [Coursera](https://www.coursera.org) - MOOC platform with analysis, product, and data courses.
 - [TutorialsPoint](https://www.tutorialspoint.com) - Free tutorials on SQL, UML, and technical topics.
 - [Atlassian University](https://university.atlassian.com) - Official training for Jira, Confluence, and agile ways of working.
