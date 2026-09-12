@@ -228,7 +228,7 @@ Industry-specific standards, reference models, and bodies of knowledge for domai
 - [arc42](https://arc42.org) - Pragmatic template for documenting software architectures.
 - [Architecture Decision Records](https://adr.github.io) - Lightweight format for capturing significant decisions.
 - [MADR](https://github.com/adr/madr) - Markdown Any Decision Records template and toolkit.
-- [TPPC Workflow Scoping Worksheet](https://thepromptpowercode.com/resources/workflow-scoping-checklist?utm_source=awesome_analysis&utm_medium=community_resource&utm_campaign=workflow_scope_resources_v1&utm_content=scoping_worksheet) - Free editable worksheet for workflow boundaries, approval roles, manual fallback, and proposed acceptance checks.
+- [TPPC Workflow Scoping Worksheet](https://thepromptpowercode.com/resources/workflow-scoping-checklist) - Editable worksheet for scoping workflow boundaries and approvals.
 - [Volere Requirements Template](https://www.volere.org/templates/volere-requirements-specification-template/) - Comprehensive requirements specification template.
 - [User Story Mapping](https://www.jpattonassociates.com/story-mapping/) - Technique and template for framing backlogs around user journeys.
 
